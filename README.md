@@ -19,7 +19,7 @@ We suggest to use GPU runtime when running the notebooks for more efficient comp
 
 ## Authors
 
-- [Maryan Rizinski]
-- [Andrej Jankov]
-- [Igor Miskovski]
-- [Dimitar Trajanov]
+- Maryan Rizinski
+- Andrej Jankov
+- Igor Miskovski
+- Dimitar Trajanov
