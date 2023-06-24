@@ -49,7 +49,7 @@ This is the brief content for each of the folders:
 
 ## Authors
 
-- Maryan Rizinski
-- Andrej Jankov
+- [Maryan Rizinski](https://github.com/rizinski)
+- [Andrej Jankov](https://github.com/nubs4dayz)
 - Igor Miskovski
-- Dimitar Trajanov
+- [Dimitar Trajanov](https://github.com/trajanov)
