@@ -51,5 +51,5 @@ This is the brief content for each of the folders:
 
 - [Maryan Rizinski](https://github.com/rizinski)
 - [Andrej Jankov](https://github.com/nubs4dayz)
-- Igor Miskovski
+- [Igor Miskovski](https://github.com/igormis)
 - [Dimitar Trajanov](https://github.com/trajanov)
