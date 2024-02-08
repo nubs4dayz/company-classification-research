@@ -53,3 +53,19 @@ This is the brief content for each of the folders:
 - [Andrej Jankov](https://github.com/nubs4dayz)
 - [Igor Miskovski](https://github.com/igormis)
 - [Dimitar Trajanov](https://github.com/trajanov)
+
+# Citation
+
+If you use this project in your research, we would appreciate a citation to the following paper:
+
+```bibtex
+@article{rizinski2024comparative,
+  title={Comparative Analysis of NLP-Based Models for Company Classification},
+  author={Rizinski, Maryan and Jankov, Andrej and Sankaradas, Vignesh and Pinsky, Eugene and Mishkovski, Igor and Trajanov, Dimitar},
+  journal={Information},
+  volume={15},
+  number={2},
+  pages={77},
+  year={2024},
+  publisher={MDPI}
+}
